@@ -30,4 +30,4 @@ The Book Store API is a RESTful web service built with Django and Django Rest Fr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/book-store-api.git
+   git clone https://github.com/anageguchadze/Book-store
